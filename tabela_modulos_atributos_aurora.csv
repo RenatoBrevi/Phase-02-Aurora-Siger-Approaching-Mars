@@ -1,0 +1,14 @@
+Nº,Módulo,Prioridade,Combustível,Massa,Criatividade da carga,Chegada à órbita,Criticidade,Status,Risco de pouso,Integridade,Dependência principal,Tempo de pouso
+01,Segurança,1,92%,8.500 kg,4,08:00,Crítica,Normal,Médio,98%,Energia,18 min
+02,Defesa contra Radiação,6,80%,10.500 kg,4,08:50,Alta,Normal,Médio,96%,Energia,22 min
+03,Controle Ambiental,5,82%,9.300 kg,5,08:40,Crítica,Normal,Médio,97%,Energia/Habitação,20 min
+04,Navegação,2,88%,7.200 kg,5,08:10,Crítica,Normal,Baixo,99%,Comunicação,16 min
+05,Comunicação,3,85%,6.800 kg,4,08:20,Crítica,Normal,Baixo,98%,Energia,15 min
+06,Armazenamento de Dados,10,74%,5.600 kg,4,09:30,Média,Normal,Baixo,95%,Energia/Comunicação,14 min
+07,Estação de Cozinha,13,68%,6.300 kg,3,10:00,Baixa,Atenção,Baixo,94%,Habitação/Água,17 min
+08,Laboratório Científico,12,70%,9.800 kg,5,09:50,Média,Normal,Médio,96%,Energia/Dados,21 min
+09,Suporte Médico,8,76%,7.900 kg,5,09:10,Alta,Normal,Médio,97%,Comunicação/Energia,18 min
+10,Propulsão Auxiliar,9,95%,11.200 kg,4,09:20,Alta,Normal,Alto,96%,Navegação,24 min
+11,Habitação,7,78%,15.000 kg,4,09:00,Alta,Normal,Alto,97%,Energia/Controle Ambiental,26 min
+12,Energia,4,90%,12.000 kg,5,08:30,Crítica,Normal,Alto,98%,Segurança,25 min
+13,Logística,11,72%,13.500 kg,3,09:40,Média,Atenção,Médio,93%,Habitação,23 min
